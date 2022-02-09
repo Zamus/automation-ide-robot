@@ -1,9 +1,9 @@
 *** Settings ***
 Documentation     Creates a new class in project structure tree.
-Resource   ../commons/OpenApp.robot
-Resource   ../commons/ProjectTree.robot
-Resource   ../commons/EditorPanel.robot
-Resource   ../commons/CompanionAspects.robot
+Resource   ../../commons/OpenApp.robot
+Resource   ../../commons/ProjectTree.robot
+Resource   ../../commons/EditorPanel.robot
+Resource   ../../commons/CompanionAspects.robot
 
 *** Tasks ***
 Run tYpe
