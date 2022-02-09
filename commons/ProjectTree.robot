@@ -3,7 +3,7 @@ Documentation     Common keywords for project tree panel
 Resource    Base.robot
 
 *** Variables ***
-#Variables that contains paths to referencial images for locating elements
+#Variables that contains paths to referencial images for locating elements. If this grows too much, we may export all locators to a singular variables file
 ${PATH_PROJECT_TREE_WORKDOG_ROOT}    image:../../images/projecttree-workdog-root-path.png
 
 *** Keywords ***
