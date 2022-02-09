@@ -1,4 +1,5 @@
 output/
+output.xml
 venv/
 temp/
 .rpa/
