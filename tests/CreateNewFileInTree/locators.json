@@ -1,13 +1,13 @@
 {
     "ProjectTree.Workdog.Root": {
         "confidence": 80.0,
-        "path": "../images/projecttree-workdog-root-path.png",
+        "path": "../../images/projecttree-workdog-root-path.png",
         "source": null,
         "type": "image"
     },
     "Sample.PersistenteAspect": {
         "confidence": 20.0,
-        "path": "../images/sample-persistence-aspect.png",
+        "path": "../../images/sample-persistence-aspect.png",
         "source": null,
         "type": "image"
     }
