@@ -4,6 +4,7 @@ Resource   ../../commons/OpenApp.robot
 Resource   ../../commons/ProjectTree.robot
 Resource   ../../commons/EditorPanel.robot
 Resource   ../../commons/CompanionAspects.robot
+Resource    ../../commons/locators.json
 
 *** Tasks ***
 Run tYpe
