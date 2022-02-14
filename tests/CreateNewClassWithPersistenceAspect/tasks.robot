@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation     Creates a new class in project structure tree.
+Documentation     Creates a new class from project structure tree and then generates a persistence aspect for that class
 Resource   ../../commons/OpenApp.robot
 Resource   ../../commons/ProjectTree.robot
 Resource   ../../commons/EditorPanel.robot
