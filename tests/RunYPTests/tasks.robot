@@ -1,5 +1,6 @@
 *** Settings ***
-Documentation     Creates a new class from project structure tree and then generates a persistence aspect for that class
+Documentation     Run YP Tests from project, component and package level
+
 Resource   ../../commons/OpenApp.robot
 Resource   ../../commons/ProjectTree.robot
 Resource   ../../commons/EditorPanel.robot
@@ -10,7 +11,12 @@ Resource   ../../commons/DebugPanel.robot
 *** Tasks ***
 Run tYpe
     Open tYpe
-Create new class and persistence aspect for it
-    Create new class
-    Create persistence aspect
-    Verify persistence aspect was created
+Run YP Tests in Package
+    Run tests from package
+    Verify YP Tests Ran
+Run YP Tests in Project
+    Run tests from project
+    Verify YP Tests Ran
+Run YP Tests in Component
+    Run tests from component
+    Verify YP Tests Ran

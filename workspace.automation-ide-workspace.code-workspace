@@ -4,6 +4,18 @@
 			"path": "tests/CreateNewClassWithPersistenceAspect"
 		},
 		{
+			"path": "tests/CheckToolbar"
+		},
+		{
+			"path": "tests/CheckProjectComponentPackage"
+		},
+		{
+			"path": "tests/CreateVpForExistingNode"
+		},
+		{
+			"path": "tests/RunYPTests"
+		},
+		{
 			"path": "."
 		}
 	],

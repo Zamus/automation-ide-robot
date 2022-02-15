@@ -1,0 +1,32 @@
+{
+    "Projecttree-workday-component-root": {
+        "confidence": 80.0,
+        "path": ".images/projecttreeworkdaycomponentroot-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "Projecttree-workdog-main-root": {
+        "confidence": 80.0,
+        "path": ".images/projecttreeworkdogmainroot-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "projecttree-workdog-package-root": {
+        "confidence": 80.0,
+        "path": ".images/projecttreeworkdogpackageroot-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "projecttree-workdog-root-path": {
+        "confidence": 80.0,
+        "path": ".images/projecttreeworkdogrootpath-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "tYPe-editor-panel-path": {
+        "confidence": 80.0,
+        "path": ".images/typeeditorpanelpath-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
