@@ -1,0 +1,18 @@
+*** Settings ***
+Documentation     Creates a new class from project structure tree and then generates a persistence aspect for that class
+Resource   ../../commons/OpenApp.robot
+Resource   ../../commons/ProjectTree.robot
+Resource   ../../commons/EditorPanel.robot
+Resource   ../../commons/CompanionAspects.robot
+Resource   ../../commons/SuvToolbar.robot
+
+*** Tasks ***
+Run tYpe
+    Open tYpe
+Create new class and persistence aspect for it
+    Create new class
+    Create persistence aspect
+    Verify persistence aspect was created
+Deploy YP Structure and Verify
+    Deploy to SUV
+    Verify YP Structure deployed to SUV

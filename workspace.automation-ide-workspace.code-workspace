@@ -4,6 +4,18 @@
 			"path": "tests/CreateNewClassWithPersistenceAspect"
 		},
 		{
+			"path": "tests/YpClassStructureDeployedToSUV"
+		},
+		{
+			"path": "tests/CreateMultipleClassesWithPersistenceAspects"
+		},
+		{
+			"path": "tests/PersistenceAspectAppearsInProjectTree"
+		},
+		{
+			"path": "tests/CreateClassWithPersistenceAspectAndRelationshipToXoClass"
+		},
+		{
 			"path": "."
 		}
 	],
