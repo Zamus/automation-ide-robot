@@ -10,6 +10,3 @@ ${PATH_EDITOR_SAMPLE_PERSISTENCE_ASPECT}    image:../../images/sample-persistenc
 Verify persistence aspect was created
     ${match}=    Wait For Element    ${PATH_EDITOR_SAMPLE_PERSISTENCE_ASPECT}
     Log    Found a match for persistence aspect that was created at (${match.top}, ${match.left}).
-Verify second persistence aspect was created
-    ${match}=    Wait For Element    ${PATH_EDITOR_SAMPLE_PERSISTENCE_ASPECT}
-    Log    Found a match for persistence aspect that was created at (${match.top}, ${match.left}).
